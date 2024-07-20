@@ -85,11 +85,3 @@ Thanks to the team at [Casetext](https://casetext.com/) for transferring
 ownership of the `firebase-admin` npm module over to the Firebase team
 and for their longtime use and support of the Firebase platform.
 
-
-## License
-
-Firebase Admin Node.js SDK is licensed under the
-[Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
-
-Your use of Firebase is governed by the
-[Terms of Service for Firebase Services](https://firebase.google.com/terms/).
